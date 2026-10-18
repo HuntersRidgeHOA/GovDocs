@@ -12,6 +12,7 @@ Searchable, verbatim transcriptions of HRMA's governing documents, made from old
 | `PDF/` | Transcriptions as PDF — best for reading and sharing |
 | `DOCX/` | Transcriptions as Microsoft Word documents |
 | `MD/` | Transcriptions as Markdown — the master copy the Word and PDF versions are generated from |
+| `BOARD_GUIDE/` | **HRMA Board Cheat Sheet** — one page, the most-used rules and numbers with short citations. **HRMA Board Quick Reference** — the full plain-English guide: rules by topic, key numbers, step-by-step board playbooks and watch-outs, every rule cited to document, section, page, and recorded book/page. (Markdown, Word, PDF) |
 
 ## Documents
 
